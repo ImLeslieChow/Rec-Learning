@@ -1,0 +1,2 @@
+tensorboard 进入tensorboard的wrtiter的输出路径（搭配cd换路径）也要激活环境
+tensorboard --logdir=./runs
